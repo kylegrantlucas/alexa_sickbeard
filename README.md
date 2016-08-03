@@ -1,10 +1,10 @@
-# Alexa Sickrage
+# Alexa SickBeard
 ## Installation
 
 Add this line to your SingingAssistant installation's Gemfile:
 
 ```ruby
-gem 'alexa_sickrage'
+gem 'alexa_sickbeard'
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ TODO: Write usage instructions here
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/alexa_transmission. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/kylegrantlucas/alexa_sickbeard. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
