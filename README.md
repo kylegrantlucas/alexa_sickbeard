@@ -1,4 +1,9 @@
 # Alexa SickBeard
+[![Gem Version](https://badge.fury.io/rb/alexa_sickbeard.svg)](http://badge.fury.io/rb/alexa_sickbeard)
+[![Code Climate](https://codeclimate.com/github/kylegrantlucas/alexa_sickbeard/badges/gpa.svg)](https://codeclimate.com/github/kylegrantlucas/alexa_sickbeard) 
+
+A SingingAssistant plugin for using Alexa commands with SickBeard. 📺
+
 ## Installation
 
 Add this line to your SingingAssistant installation's Gemfile:
